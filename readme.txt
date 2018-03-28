@@ -4,4 +4,4 @@ Git is free software.
 11233
 
 kkl
-tao
+Git has a mutable index called stage.
