@@ -5,3 +5,5 @@ Git is free software.
 
 kkl
 Git has a mutable index called stage.
+tao2
+tao3
